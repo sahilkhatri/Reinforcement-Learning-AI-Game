@@ -1,5 +1,5 @@
 # Reinforcement-Learning-AI-Game
-Snake Game. Reinforcement Learning. Pytorch
+Snake Game. Reinforcement Learning. Pytorch.
 This is a basic implementation of Snake Game with Reinforcement Learning.
 For developing this RL based game Pytorch Framework is used.
 This repository is referenced from https://github.com/python-engineer/snake-ai-pytorch , 
